@@ -3,6 +3,7 @@
 ## Setup
 - [+] Setup venv
 - [+] Dependencies
+- [+] Create ping-pong helloWorld
 - [ ] Setup PostgreSQL / Docker
 
 ## API Endpoints
