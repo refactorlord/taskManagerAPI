@@ -4,7 +4,7 @@
 - [+] Setup venv
 - [+] Dependencies
 - [+] Create ping-pong helloWorld
-- [ ] Setup PostgreSQL / Docker
+- [+] Setup PostgreSQL / Docker
 
 ## API Endpoints
 - [ ] User Registration (`POST /auth/register`)
